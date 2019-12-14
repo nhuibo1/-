@@ -1,0 +1,139 @@
+
+.navbar-default{
+    background: #fff;
+    border: 0;
+    margin-bottom: 0;
+}
+
+
+.navbar-brand{
+    height: 100px;
+    width:180px;
+}
+.navbar-right{
+    padding-top: 25px;
+}
+
+.navbar-right a:hover{
+    border-bottom: 1px solid #f5de5a;
+}
+.banner{
+    background: #f6ce2a;
+}
+.carousel-indicators .active{
+    width: 30px;
+    height: 5px;
+}
+.carousel-indicators li{
+    width: 30px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.212);
+}
+.banbtn{
+    position: absolute;
+    top: -200%;
+    right: 35%;
+    width: 111px;
+    height: 30px;
+    border: 1px solid #fff;
+    line-height: 28px;
+    cursor: pointer;
+    text-shadow: none;
+}
+.good{
+    padding-bottom: 100px;
+}
+.good .row{
+    margin-bottom: 30px;
+}
+.good .row:first-child p{
+    width: max-content;
+    padding: 5px;
+    margin: 0 auto;
+    border-top: 1px solid #ffce05;
+    color:#cdcdcd;
+}
+.blood{
+    padding-bottom: 100px;
+    background: #fafafa;
+}
+.blood .row:first-child p{
+    width: max-content;
+    padding: 5px;
+    margin: 0 auto;
+    border-top: 1px solid #ffce05;
+    color:#cdcdcd;
+}
+.btn-lg{
+    margin-top: 45px;
+    background: #f6ce2a;
+}
+.we .row:first-child p{
+   text-align: center;
+   font-size: 18px;
+   color:#cdcdcd;
+}
+hr{
+    width: 100px;
+    border-top: 1px solid #ffce05;
+}
+.company{
+    text-align: justify;
+}
+.we{
+    margin-bottom: 70px;
+}
+.footer{
+    background: #333333;
+}
+.footer p{
+    color:#6d6d6d;
+}
+.footer ul li{
+    /* list-style: none;
+    float: left; */
+    color:#6d6d6d;
+    position: relative;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.footer ul li:after{
+    content: '';
+    width: 1px;
+    height: 14px;
+    position: absolute;
+    top: 20%;
+    left: 90px;
+    background: #50504d;
+    transform: rotate(45deg);
+}
+.footer ul li:last-child:after{
+    width: 0;
+}
+.footer_content{
+    margin-top: 30px;
+}
+.last{
+    /*width: 432px;*/
+    border: 1px solid;
+    border-radius: 40px;
+    /*height: 30px;*/
+    text-align: center;
+    line-height: 30px;
+    background: #2a2a2a;
+    padding: 5px;
+}
+.img_18{
+    position: relative;
+}
+.img_18:after{
+    content: '';
+    width: 300px;
+    height: 20px;
+    background: #f6ce2a;
+    position: absolute;
+    top: -5.8%;
+      transform: skew(45deg);
+    left: -3px;
+    background-image: linear-gradient(to right, white 5% , #f6ce2a);
+}

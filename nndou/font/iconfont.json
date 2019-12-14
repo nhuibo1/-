@@ -1,0 +1,16 @@
+{
+  "id": "1531924",
+  "name": "2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8835558",
+      "name": "定位",
+      "font_class": "dingwei-xianxing",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
